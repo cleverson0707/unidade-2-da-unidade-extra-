@@ -1,0 +1,7 @@
+function comecarJogo() {
+    // Esconde a tela de início
+    document.getElementById("tela-inicio").style.display = "none";
+    
+    // Aqui você pode mostrar o resto do jogo ou iniciar a história
+    console.log("A aventura começou!");
+}
